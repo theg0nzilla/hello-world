@@ -1,3 +1,6 @@
 # hello-world
 My first GitHub exploration...
 This is my first GitHub respository. Trying some new things in here...
+=====================
+
+My name is Chris Gonzalez. I'm new to this coding thing, so be gentle.
